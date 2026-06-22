@@ -1,0 +1,6 @@
+{
+  "name": "Pogoda",
+  "description": "Prosta i elegancka aplikacja pogodowa zbudowana w React, wykorzystująca nowoczesny design i dane w czasie rzeczywistym.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
